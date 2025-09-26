@@ -1,4 +1,4 @@
-# CSI²Q
+# Introduction to CSI²Q
 
 This repository provides the implementation of **CSI²Q**. Please refer to our paper for more details:  Enhancing WiFi CSI Fingerprinting:A Deep Auxiliary Learning Approach
 
