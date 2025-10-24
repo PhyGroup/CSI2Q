@@ -49,8 +49,24 @@ Before training the models, we need to further process the  datasets:
 > **OWR** = Open-World Recognition
 > **MTL_0** = Multi-Task Learning on **WiSig** with source domain
 > **MTL** = Multi-Task Learning without source domain
-> 
+
+## Citation
+
+Please cite:
+
+@ARTICLE{csi2q_huang,
+  author={Huang, Yong and Wang, Wenjing and Zhang, Dalong and Wang, Junjie and Chen, Chen and Cao, Yan and Wang, Wei},
+  journal={IEEE Internet of Things Journal}, 
+  title={Enhancing WiFi CSI Fingerprinting: A Deep Auxiliary Learning Approach}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Fingerprint recognition;Feature extraction;Wireless fidelity;Radio frequency;Performance evaluation;Time-domain analysis;Interference;Internet of Things;Hardware;Channel estimation;Radio frequency fingerprinting;channel state information;open-world recognition},
+  doi={10.1109/JIOT.2025.3625062}}
+
 ```bash
+
 cd code/python
 # Open-World Recognition
 python OWR.py
