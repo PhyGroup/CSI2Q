@@ -1,6 +1,6 @@
 # Introduction to CSI²Q
 
-This repository provides the implementation of **CSI²Q**. Please refer to our paper for more details:  Enhancing WiFi CSI Fingerprinting:A Deep Auxiliary Learning Approach
+This repository provides the implementation of **CSI²Q**. Please refer to our paper for more details: Enhancing WiFi CSI Fingerprinting: A Deep Auxiliary Learning Approach, which has been accepted by IEEE Internet of Things Journal.
 
 
 ## Setup
@@ -52,18 +52,18 @@ Before training the models, we need to further process the  datasets:
 
 ## Citation
 
-Please cite:
+If uising our dataset and codes, please cite:
 
 @ARTICLE{csi2q_huang,
-  author={Huang, Yong and Wang, Wenjing and Zhang, Dalong and Wang, Junjie and Chen, Chen and Cao, Yan and Wang, Wei},
-  journal={IEEE Internet of Things Journal}, 
-  title={Enhancing WiFi CSI Fingerprinting: A Deep Auxiliary Learning Approach}, 
-  year={2025},
-  volume={},
-  number={},
-  pages={1-1},
-  keywords={Fingerprint recognition;Feature extraction;Wireless fidelity;Radio frequency;Performance evaluation;Time-domain analysis;Interference;Internet of Things;Hardware;Channel estimation;Radio frequency fingerprinting;channel state information;open-world recognition},
-  doi={10.1109/JIOT.2025.3625062}}
+  author={Huang, Yong and Wang, Wenjing and Zhang, Dalong and Wang, Junjie and Chen, Chen and Cao, Yan and Wang, Wei},<br>
+  journal={IEEE Internet of Things Journal}, <br>
+  title={Enhancing WiFi CSI Fingerprinting: A Deep Auxiliary Learning Approach},<br> 
+  year={2025},<br>
+  volume={},<br>
+  number={},<br>
+  pages={1-1},<br>
+  keywords={Fingerprint recognition;Feature extraction;Wireless fidelity;Radio frequency;Performance evaluation;Time-domain analysis;Interference;Internet of Things;Hardware;Channel estimation;Radio frequency fingerprinting;channel state information;open-world recognition},<br>
+  doi={10.1109/JIOT.2025.3625062}}<br>
 
 ```bash
 
