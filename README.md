@@ -1,6 +1,6 @@
 # Introduction to CSI²Q
 
-This repository provides the implementation of **CSI²Q**. Please refer to our paper for more details: Enhancing WiFi CSI Fingerprinting: A Deep Auxiliary Learning Approach, which has been accepted by IEEE Internet of Things Journal.
+This repository provides the implementation of **CSI²Q**. Please refer to our paper for more details: <a class="blue" href="https://doi.org/10.1109/JIOT.2025.3625062">Enhancing WiFi CSI Fingerprinting: A Deep Auxiliary Learning Approach</a>, which has been accepted by the IEEE Internet of Things Journal.
 
 
 ## Setup
@@ -12,7 +12,7 @@ This repository provides the implementation of **CSI²Q**. Please refer to our p
 
 ## Datasets:
 
-Dataset could be downloaded from this file: [dataset](https://drive.google.com/file/d/1MCMbCFyUGTWum_GKauTNf9gba5llmuCV/view?usp=drive_link](https://drive.google.com/file/d/1MCMbCFyUGTWum_GKauTNf9gba5llmuCV/view?usp=sharing).  
+The datasets could be downloaded from this file: [dataset](https://drive.google.com/file/d/1MCMbCFyUGTWum_GKauTNf9gba5llmuCV/view?usp=drive_link](https://drive.google.com/file/d/1MCMbCFyUGTWum_GKauTNf9gba5llmuCV/view?usp=sharing).  
 After downloading and extracting, you will see three folders:  
 
 - **IN_lab/** – in-lab CSI dataset (10 routers)  
@@ -52,7 +52,7 @@ Before training the models, we need to further process the  datasets:
 
 ## Citation
 
-If using our dataset and codes, please cite:
+If using our datasets and codes, please cite:
 
 @ARTICLE{csi2q_huang,
   author={Huang, Yong and Wang, Wenjing and Zhang, Dalong and Wang, Junjie and Chen, Chen and Cao, Yan and Wang, Wei},<br>
