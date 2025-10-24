@@ -52,7 +52,7 @@ Before training the models, we need to further process the  datasets:
 
 ## Citation
 
-If uising our dataset and codes, please cite:
+If using our dataset and codes, please cite:
 
 @ARTICLE{csi2q_huang,
   author={Huang, Yong and Wang, Wenjing and Zhang, Dalong and Wang, Junjie and Chen, Chen and Cao, Yan and Wang, Wei},<br>
